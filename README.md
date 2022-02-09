@@ -4,23 +4,18 @@
 - 👯 I’m looking to collaborate on a React project...
 - 📫 How to reach me: @etJecode on many platforms...
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&theme=gradient)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-streak-stats)
+
 <!-- <img src="gorsel-link" width="auto"> -->
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=etJecode&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=etJecode&row=1)](https://github.com/etJecode/github-profile-trophy) -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) -->
 <!-- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link) -->
-
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=etJecode&theme=blue-green)](https://github.com/etJecode/github-readme-stats) -->
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&theme=gradient)
 <!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&theme=radical) -->
-
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-streak-stats)
 
 <!--
 **etJecode/etJecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
