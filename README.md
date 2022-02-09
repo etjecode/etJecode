@@ -18,9 +18,9 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&theme=gradient)
 <!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&theme=radical) -->
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&theme=blue-green)](https://github.com/etJecode/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=etJecode&theme=blue-green)](https://github.com/etJecode/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-streak-stats)
 
 <!--
 **etJecode/etJecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
