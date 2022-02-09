@@ -6,7 +6,7 @@
 
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/etJecode)
 
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/etJecode/badges)
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=etJecode&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
