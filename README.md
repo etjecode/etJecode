@@ -1,6 +1,6 @@
 ### Selam / Hello / Salut / Hallo 👋
 - 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning SQL, REST API, Node.js and Docker.
+- 🌱 I’m currently learning RESTful API, Node.js, Express, MongoDB and Docker.
 - 👯 I’m looking to collaborate on a start-up project.
 - 📫 How to reach me: @etJecode on many platforms.
 
