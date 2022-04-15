@@ -1,5 +1,5 @@
 ### Selam / Hello / Salut / Hallo 👋
-- 🔭 I’m currently working on a News Portal, Game Portal, E-Commerce Website.
+- 🔭 I’m currently working on a News Portal, a Game Portal and an E-commerce Website.
 - 🌱 I’m currently learning SASS, Node, Express, MongoDB and Cyber Security.
 - 👯 I’m looking to collaborate on a start-up project.
 - 📫 How to reach me: @etJecode on many platforms.
