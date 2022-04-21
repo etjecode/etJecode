@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm etjecode</h1>
+<h1 align="center">Hi 👋, I'm Feyzan</h1>
 <h3 align="center">A passionate Full Stack developer from Istanbul</h3>
 
 ### Selam / Hello / Salut / Hallo 👋
