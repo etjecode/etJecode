@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Feyzan</h1>
-<h3 align="center">A passionate Full Stack developer from Istanbul</h3>
+<h3 align="center">A passionate Frontend Web Developer from Istanbul</h3>
 
 ### Selam / Hello / Salut / Hallo 👋
 - 🔭 I’m currently working on a News Portal, a Game Portal and an E-commerce Website.
-- 🌱 I’m currently learning Vue.js, SASS, Node.js, Express.js, MongoDB and Cyber Security.
-- 👯 I’m looking to collaborate on a start-up project.
+- 🌱 I’m currently learning Vue.js, Bootstrap 5, SASS and Cyber Security.
+- 👯 I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etjecode&label=Profile%20views&color=0e75b6&style=flat" alt="etjecode" /> </p>
