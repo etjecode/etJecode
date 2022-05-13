@@ -3,7 +3,7 @@
 
 ### Selam / Hello / Salut / Hallo 👋
 - 🔭 I’m currently working on a News Portal, a Game Portal and an E-commerce Website.
-- 🌱 I’m currently learning Vue.js, Bootstrap 5, SASS and Cyber Security.
+- 🌱 I’m currently learning Vue.js, Bootstrap 5 and SASS..
 - 👯 I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
