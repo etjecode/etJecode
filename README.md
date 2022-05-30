@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Feyzan</h1>
-<h3 align="center">A passionate Frontend Web Developer from Istanbul</h3>
+<h1 align="center">Hi, I'm Feyzan</h1>
+<h3 align="center">a Junior Frontend Web Developer from Istanbul</h3>
 
 ### Selam / Hello / Salut / Hallo 👋
 - 🔭 I’m currently working on a News Portal, a Game Portal and an E-commerce Website.
