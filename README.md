@@ -2,8 +2,8 @@
 <h3 align="center">a Software Developer from Istanbul</h3>
 
 ### Selam / Hello / Salut / Hallo 👋
-- 🔭 I’m currently working on a News Portal, a Game Portal and an E-commerce Website.
-- 🌱 I’m currently learning Vue.js, Bootstrap 5 and SASS..
+- 🔭 I’m currently working on a SaaS project.
+- 🌱 I’m currently using Vue.js, Bootstrap 5 and SCSS..
 - 👯 I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
