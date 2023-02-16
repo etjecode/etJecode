@@ -3,7 +3,7 @@
 
 ### Selam / Hello / Hallo / Salut 👋
 - 🔭 I’m currently working on a SaaS project.
-- 🌱 I’m currently writing Vue and TypeScript.
+- 🌱 I’m currently writing Vue, Nuxt and TypeScript.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
