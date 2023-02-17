@@ -39,8 +39,7 @@
 
 </div>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&theme=gradient)](https://github.com/etJecode/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etjecode&show_icons=true&locale=en" alt="etjecode" /></p>
 
