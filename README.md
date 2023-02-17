@@ -39,11 +39,11 @@
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etJecode)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etjecode&show_icons=true&locale=en" alt="etjecode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&locale=en" alt="etJecode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etjecode&" alt="etjecode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etJecode&" alt="etJecode" /></p>
 </div>
 
 <br />
