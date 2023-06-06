@@ -2,8 +2,8 @@
 <h3 align="center">a Front End Developer from Istanbul</h3>
 
 ### Selam / Hello / Hallo / Salut 👋
-- 🔭 I’m currently working on a SaaS project.
-- 🌱 I’m currently writing Vue, Nuxt and TypeScript.
+- 🔭 I’m currently working on a Headless CMS project.
+- 🌱 I’m currently learning Vue, Nuxt and TypeScript.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
