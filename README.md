@@ -3,7 +3,7 @@
 
 ### Selam / Hello / Hallo / Salut 👋
 - 🔭 I’m currently working on a Headless CMS project.
-- 🌱 I’m currently learning Vue, Nuxt and TypeScript.
+- 🌱 I’m currently learning Vue, Nuxt and Typescript.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
