@@ -38,12 +38,6 @@
   </p>
 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etJecode&layout=compact)](https://github.com/etJecode/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etJecode&show_icons=true&locale=en" alt="etJecode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etJecode&" alt="etJecode" /></p>
 </div>
 
 <br />
