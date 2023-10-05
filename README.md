@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Feyzan</h1>
+<h1 align="center" style="text: violet">Hi, I'm Feyzan</h1>
 <h3 align="center">a Front End Developer from Istanbul</h3>
 
 ### Selam / Hello / Hallo / Salut 👋
