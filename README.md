@@ -3,7 +3,7 @@
 
 ### Selam / Hello / Hallo / Salut 👋
 - 🔭 I’m currently working on a Headless CMS project.
-- 🌱 I’m currently writing Vue, Nuxt and Typescript.
+- 🌱 I’m currently writing Vue, Typescript and TailwindCSS.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: @etJecode on many platforms.
 
