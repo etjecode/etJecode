@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etjecode&label=Profile%20views&color=0e75b6&style=flat" alt="etjecode" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etjecode&theme=shadow_green&show_icons=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=etjecode&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=etjecode&theme=vue&hide_border=false)
