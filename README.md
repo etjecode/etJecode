@@ -14,11 +14,6 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etjecode&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=etjecode&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etjecode" alt="etjecode" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/etjecode" target="blank"><img src="https://img.shields.io/twitter/follow/etjecode?logo=twitter&style=for-the-badge" alt="etjecode" /></a> </p>
