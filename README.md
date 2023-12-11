@@ -8,8 +8,6 @@
 - 📫 How to reach me: @etJecode on many platforms.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etjecode&label=Profile%20views&color=0e75b6&style=flat" alt="etjecode" /> </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=etjecode&theme=vue&hide_border=false)
 <br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etjecode" alt="etjecode" /></a> </p>
