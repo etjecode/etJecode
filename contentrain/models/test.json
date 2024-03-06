@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "test"
+  },
+  {
+    "name": "test",
+    "fieldId": "test",
+    "modelId": "test",
+    "componentId": "url",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
