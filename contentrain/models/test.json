@@ -87,5 +87,14 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "img",
+    "fieldId": "img",
+    "modelId": "test",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
