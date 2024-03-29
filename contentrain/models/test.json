@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "test"
+  },
+  {
+    "name": "55455",
+    "fieldId": "55455",
+    "modelId": "test",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
