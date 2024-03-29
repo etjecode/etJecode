@@ -76,5 +76,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "55455-2",
+    "fieldId": "55455-2",
+    "modelId": "test",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {},
+    "fieldType": "string"
   }
 ]
