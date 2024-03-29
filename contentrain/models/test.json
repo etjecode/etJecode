@@ -60,15 +60,6 @@
     "modelId": "test"
   },
   {
-    "name": "55455",
-    "fieldId": "55455",
-    "modelId": "test",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
     "name": "554550",
     "fieldId": "554550",
     "modelId": "test",
