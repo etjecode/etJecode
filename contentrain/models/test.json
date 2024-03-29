@@ -67,15 +67,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "tretertert",
-    "description": "doğumgünü",
-    "fieldId": "tretertert",
-    "modelId": "test",
-    "componentId": "email",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
