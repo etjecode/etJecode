@@ -2,10 +2,9 @@
 <h3 align="center">a Front End Developer from Istanbul</h3>
 
 ### Selam / Hello / Hallo / Salut 👋
-- 🔭 I’m currently working @ Contentrain, a Headless CMS project.
 - 🌱 I’m currently writing Vue, Nuxt, TypeScript and TailwindCSS.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me:  You can reach me  @ etJecode on many platforms.
+- 📫 How to reach me:  You can reach me  @ etjecode on social media platforms.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etjecode&label=Profile%20views&color=0e75b6&style=flat" alt="etjecode" /> </p>
 <br/>
