@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm etjecode</h1>
-<h3 align="center">a Front End Developer from Istanbul</h3>
+<h3 align="center">a JavaScript Developer from Istanbul</h3>
 
 ### Selam / Hello / Hallo / Salut 👋
 - 🌱 I’m currently coding in Vue, Nuxt, TypeScript and TailwindCSS.
