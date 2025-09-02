@@ -1,18 +1,17 @@
-<h1 align="center">Hey there, I'm Feyzan 👋</h1>
+<h1 align="center">Hi there, I'm Feyzan 👋</h1>
 
 <p align="center">
-  I'm a frontend developer with a strong passion for building clean, responsive, and accessible user interfaces — but I don’t stop at the frontend. I enjoy diving into backend development to create full-featured, end-to-end web applications.
+  I'm a passionate frontend web developer who enjoys building responsive, efficient, and user-friendly applications. I work mainly with modern JavaScript frameworks like Vue.js, and I'm also exploring the backend side of development with tools like Node.js and MongoDB as I continue to grow my skills.
 </p>
 
 <p align="center">
-  ⚡ Focused on crafting seamless frontend experiences using modern tools and frameworks<br/>
-  🔧 Comfortable working across the stack with Node.js, Express, and MongoDB<br/>
-  🚀 Always learning, always building
+  🚀 Currently diving deeper into TypeScript and frontend performance<br/>
+  🌱 Learning the fundamentals of backend development<br/>
+  💡 Always open to collaborating on meaningful open-source projects<br/>
+  🌐 Building for the web, one component at a time
 </p>
 
 ---
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etjecode&label=Profile%20views&color=0e75b6&style=flat" alt="etjecode" /> </p>
 <br/>
