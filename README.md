@@ -1,6 +1,5 @@
-<!--
 <h1 align="center">Hi there, I'm Feyzan 👋</h1>
-
+<!--
 <p align="center">
   I'm a passionate frontend web developer who enjoys building responsive, efficient, and user-friendly applications. I work mainly with modern JavaScript frameworks like Vue.js, and I'm also exploring the backend side of development with tools like Node.js and MongoDB as I continue to grow my skills.
 </p>
